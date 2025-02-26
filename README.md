@@ -1,4 +1,4 @@
-This app is a sliding puzzle
+This app is a sliding puzzle in Android Studio
 
 There are two 3x3 boards in the puzzle. 
 
